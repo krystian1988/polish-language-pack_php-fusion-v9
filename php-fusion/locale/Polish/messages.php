@@ -1,0 +1,142 @@
+<?php
+// Standard
+$locale['400'] = "Prywatne wiadomości";
+$locale['401'] = "Napisz nową wiadomość";
+$locale['402'] = "Odebrane";
+$locale['403'] = "Wysłane";
+$locale['404'] = "Archiwum";
+$locale['405'] = "Temat";
+$locale['406'] = "Od";
+$locale['407'] = "Data";
+$locale['408'] = "Właściciel strony";
+$locale['409'] = "Wykonaj z&nbsp;zaznaczonymi:";
+$locale['410'] = "Zaznacz wszystko";
+$locale['411'] = "Odznacz wszystko";
+$locale['412'] = "Zapisz rozmowę";
+$locale['413'] = "Unsave";
+$locale['414'] = "Przeczytane";
+$locale['415'] = "Unread";
+$locale['416'] = "Usuń rozmowę";
+$locale['417'] = "Show sender with Letters:";
+$locale['418'] = "All";
+$locale['419'] = "You have no Private Messages";
+$locale['420'] = "Wyślij Prywatną Wiadomość";
+$locale['420a'] = "Odbiorca";
+$locale['421'] = "Znajdź użytkownika...";
+$locale['422'] = "Wiadomość";
+//$locale['422a'] = "Original Message";
+$locale['423'] = "BB Code";
+$locale['424'] = "Uśmieszki";
+$locale['425'] = "Opcje";
+$locale['426'] = "Wyślij";
+$locale['427'] = "Disable Smileys in Message";
+$locale['428'] = "Show Signature in Message";
+$locale['429'] = "Podgląd";
+$locale['430'] = "Wyślij";
+$locale['431'] = "Read Private Message";
+$locale['432'] = "Zamknij";
+$locale['433'] = "Reply";
+$locale['434'] = "Wyślij do wszystkich";
+$locale['435'] = "Anuluj";
+//$locale['436'] = "Preview Reply";
+$locale['437'] = "Wyślij";
+//$locale['438'] = "Preview Message";
+$locale['439'] = "Reply";
+$locale['440'] = "(received %s)";
+$locale['441'] = "Write as Site Owner";
+$locale['442'] = "User Levels";
+$locale['443'] = "Groups";
+$locale['444'] = "Więcej";
+$locale['445'] = "Ustawienia zapisane";
+$locale['446'] = "Nieprzeczytane wiadomości";
+$locale['447'] = "Przeczytane wiadomości";
+$locale['448'] = "Ustawienia";
+
+// Search Options -- this is used by Search.php
+$locale['450'] = "Search and Sort Options";
+$locale['451'] = "Search / Sort";
+$locale['452'] = "Clear";
+$locale['453'] = "Nothing was found during your search";
+$locale['454'] = "Search for";
+$locale['455'] = "in";
+$locale['456'] = "Sort by";
+$locale['457'] = "(Use ? and * as Wildcards)";
+$locale['458'] = "Currently displaying Members with '%s' in '%s' ";
+$locale['459'] = "Sender Beginning with '%s' ";
+$locale['460'] = "Sort by '%s'";
+$locale['461'] = "This Message box is empty"; // del
+$locale['462'] = "Temat";
+$locale['463'] = "Wiadomość";
+$locale['464'] = "Sender";
+$locale['465'] = "Date/Time received";
+$locale['466'] = "Not Selected";
+$locale['467'] = "No Conversation Selected";
+$locale['468'] = "Start a new conversation with %s";
+$locale['469'] = "Reply to %s";
+
+$locale['471'] = "Brak prywatnych wiadomości";
+
+// Error Messages
+$locale['480'] = "Błąd";
+$locale['481'] = "Wrong Message ID";
+$locale['482'] = "Wrong Member ID";
+$locale['483'] = "For Members only";
+$locale['484'] = "Your Private Messaging facility has been withdrawn due to misuse.";
+$locale['485'] = "Please select at least one message";
+$locale['486'] = "You must complete all fields: Subject and Message";
+$locale['487'] = "Flooding! Please wait %s seconds before you write the next message.";
+$locale['488'] = "An unknown error occurred with the message, ";
+$locale['489'] = "Message archived";
+$locale['489b'] = "Message unarchived";
+$locale['490'] = "Message deleted";
+$locale['491'] = "Wiadomość wysłana";
+$locale['492'] = "There are no users in this group.";
+$locale['493'] = "Mark All as Read";
+$locale['494'] = "Mark as Read";
+$locale['495'] = "Mark as Unread";
+$locale['496'] = "Mark All as Unread";
+
+// Tooltips
+$locale['500'] = "Naciśnij, aby napisać nową prywatną wiadomość";
+$locale['501'] = "Naciśnij, aby zobaczyć Twoje odebrane wiadomości";
+$locale['502'] = "Naciśnij, aby zobaczyć Twoje wysłane wiadomości";
+$locale['503'] = "Naciśnij, aby zobaczyć Twoje zachowane wiadomości";
+$locale['504'] = "Naciśnij, aby zaznaczyć wiadomość";
+$locale['505'] = "Naciśnij, aby zobaczyć wiadomość";
+$locale['506'] = "Naciśnij, aby zobaczyć profil nadawcy";
+$locale['507'] = "Naciśnij, aby zaznaczyć wszystkie wiadomości";
+$locale['508'] = "Naciśnij, aby odznaczyć wszystkie wiadomości";
+$locale['509'] = "Naciśnij, aby zobaczyć wiadomości od wszystkich nadawców";
+$locale['510'] = "Naciśnij, aby zobaczyć wiadomości od nadawców rozpoczynających się na %s";
+$locale['511'] = "Naciśnij, aby przesunąć zaznaczone wiadomości do archiwum";
+$locale['512'] = "Naciśnij, aby przesunąć zaznaczone wiadomości do odebranych";
+$locale['513'] = "Naciśnij, aby zaznaczone wiadomości uznać za przeczytane";
+$locale['514'] = "Naciśnij, aby zaznaczone wiadomości uznać za nieprzeczytane";
+$locale['515'] = "Naciśnij, aby usunąć zaznaczone wiadomości";
+$locale['516'] = "Naciśnij, aby zachować nową konfigurację";
+$locale['520'] = "Domyślnie";
+$locale['521'] = "Nie powiadamiaj mnie";
+$locale['522'] = "Tak, informuj mnie na bieżąco";
+$locale['523'] = "Nie zapisuj moich wiadomości";
+$locale['524'] = "Tak, zachowaj moje wysłane wiadomości";
+
+// Options
+$locale['620'] = "Ustawienia";
+$locale['621'] = "Powiadom mnie e-mailem, gdy otrzymam nową PM:";
+$locale['622'] = "Automatycznie zapisuj wysłane wiadomości:";
+$locale['623'] = "Zapisz";
+$locale['624'] = "Ustawienia zostały zapisane";
+$locale['625'] = "Masz nową prywatną wiadomość na ".fusion_get_settings('sitename');
+$locale['626'] = ",\r\nNa stronie ".fusion_get_settings('sitename').". czeka na Ciebie nowa prywatna wiadomość od [USER] o tytule: \"[SUBJECT]\". Żeby ją przeczytać, przejdź na: ".fusion_get_settings('siteurl')."messages.php\r\n\r\n------
+Niniejsza wiadomość została wysłana automatycznie. Jeżeli nie chcesz otrzymywać informacji o nowych wiadomościach, wyłącz opcję powiadomień o nowych prywatnych wiadomościach w panelu opcji prywatnych wiadomości.";
+$locale['627'] = "Błąd";
+$locale['628'] = "Nie można było wysłać wiadomości. Brak miejsca w&nbsp;skrzynce odbiorczej adresata.";
+$locale['629'] = "Nie można było przenieść zaznaczonych wiadomości, ponieważ w&nbsp;folder docelowy osiągnął limit znajdujących się w&nbsp;nim wiadomości.";
+$locale['630'] = "Limit wiadomości";
+$locale['631'] = "Tak";
+$locale['632'] = "Nie";
+
+$locale['700'] = "User inbox is full. Try delete it or upgrade it to 102 or 103 status";
+$locale['701'] = "Sender User ID does not exist in DB. Sequence Aborted.";
+$locale['702'] = "Message Recepient User ID is invalid";
+$locale['703'] = "You are flooding, send_pm halted";
