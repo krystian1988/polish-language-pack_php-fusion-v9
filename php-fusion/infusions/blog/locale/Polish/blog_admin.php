@@ -17,7 +17,7 @@ $locale['blog_0145'] = "Usunięto nadesłany wpis!";
 $locale['blog_0146'] = "Opublikowano nadesłany wpis!";
 $locale['blog_0147'] = "Nadesłany wpis zapisano jako szkic!";
 $locale['blog_0148'] = "Dodano ";
-$locale['blog_0149'] = "%s has been disabled and will not take effect.";            /// DO PRZETŁUMACZENIA ///
+$locale['blog_0149'] = "%s został wyłączony i nie wejdzie w życie."; 
 // Blog titles
 $locale['blog_0400'] = "Wpisy";
 $locale['blog_0401'] = "Dodaj wpis";
@@ -104,7 +104,7 @@ $locale['blog_0460'] = "Wszystkie wpisy";
 $locale['left'] = "lewej";
 $locale['center'] = "środka";
 $locale['right'] = "prawej";
-$locale['blog_0600'] = "Pozwolić na nadsyłanie wpisów";
+$locale['blog_0600'] = "Zgłoszenia";
 $locale['blog_0601'] = "Pozwolić na dodawanie zdjęć";
 $locale['blog_0602'] = "Wymagać wstępu i głównej treści?";
 // Public Submissions Form
