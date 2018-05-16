@@ -1,2 +1,7 @@
-# polish-language-pack_php-fusion-v9
-Polish Language Pack PHP-Fusion v9
+# Polskie Tłumaczenie do PHP-Fusion v9
+Polski Oficjalny Support PHP-Fusion.pl
+https://www.php-fusion.pl
+
+~Tłumaczenie krystian1988
+
+Tłumaczenie nie jest w pełni kompletne!
